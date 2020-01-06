@@ -25,6 +25,8 @@ It has been designed and built with mobile-first reponsive principles in mind.
 The application makes use of  [Font Awesome](https://www.npmjs.com/package/font-awesome), [Moment](https://www.npmjs.com/package/moment), [React Switch](https://www.npmjs.com/package/react-switch) and [React Dialog](https://www.npmjs.com/package/react-dialog).
 
 <a href="https://gyazo.com/a050f57cd0de75f2af2df97df0bdaffa"><img src="https://i.gyazo.com/a050f57cd0de75f2af2df97df0bdaffa.gif" alt="Image from Gyazo" width="1000"/></a>
+<hr>
+<a href="https://gyazo.com/8547eecbe8474ea1109da0583ae4ce60"><img src="https://i.gyazo.com/8547eecbe8474ea1109da0583ae4ce60.gif" alt="Image from Gyazo" width="882"/></a>
 
 Running the application locally
 Node.js must be installed if not already.

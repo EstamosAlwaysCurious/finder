@@ -23,7 +23,7 @@ The collected data is stored in an AWS relational database and is displayed as a
 
 It has been designed and built with mobile-first reponsive principles in mind.
 
-The application makes use of  [Font Awesome](https://www.npmjs.com/package/font-awesome), [Moment](https://www.npmjs.com/package/moment), [React Switch](https://www.npmjs.com/package/react-switch), [React Dialog](https://www.npmjs.com/package/react-dialog) and [Auth0] (https://auth0.com/).
+The application makes use of  [Font Awesome](https://www.npmjs.com/package/font-awesome), [Moment](https://www.npmjs.com/package/moment), [React Switch](https://www.npmjs.com/package/react-switch), [React Dialog](https://www.npmjs.com/package/react-dialog) and [Auth0](https://auth0.com/).
 
 <a href="https://gyazo.com/a050f57cd0de75f2af2df97df0bdaffa"><img src="https://i.gyazo.com/a050f57cd0de75f2af2df97df0bdaffa.gif" alt="Image from Gyazo" width="1000"/></a>
 <hr>

@@ -27,7 +27,7 @@ The application makes use of  [Font Awesome](https://www.npmjs.com/package/font-
 
 <a href="https://gyazo.com/bdb6b4a9a844b56e2a3d715697e83a5e"><img src="https://i.gyazo.com/bdb6b4a9a844b56e2a3d715697e83a5e.gif" alt="Image from Gyazo" width="782"/></a>
 <hr>
-<a href="https://gyazo.com/8547eecbe8474ea1109da0583ae4ce60"><img src="https://i.gyazo.com/8547eecbe8474ea1109da0583ae4ce60.gif" alt="Image from Gyazo" width="882"/></a>
+<a href="https://gyazo.com/4c12f0ed84b05776c32c235f5cecb155"><img src="https://i.gyazo.com/4c12f0ed84b05776c32c235f5cecb155.gif" alt="Image from Gyazo" width="722"/></a>
 
 Running the application locally
 Node.js must be installed if not already.

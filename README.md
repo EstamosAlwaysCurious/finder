@@ -2,6 +2,7 @@
 This is the front end of a Finder Application, built as a collaborative final project of the [Tech Returners](https://www.techreturners.com/) Your Journey Into Tech course. It integrates with a backend, available here : https://github.com/EstamosAlwaysCurious/finder_backend.
 
 The hosted version of the application is available here: https://EstamosAlwaysCurious.github.io/finder/.
+
 Tech Returners final project presentation: https://shorturl.at/cwNQZ
 
 ### The Application has been designed to:

@@ -31,7 +31,7 @@ The application makes use of [Font Awesome](https://www.npmjs.com/package/font-a
 <hr>
 <a href="https://gyazo.com/4c12f0ed84b05776c32c235f5cecb155"><img src="https://i.gyazo.com/4c12f0ed84b05776c32c235f5cecb155.gif" alt="Image from Gyazo" width="722"/></a>
 
-/*![App portrait](./public/mob_port_top.png)
+![App portrait](./public/mob_port_top.png)
 ![App portrait](./public/mob_port_mid.png)
 ![App portrait](./public/mob_port_bottom.png)
 ![App landscape](./public/mob_land_top.png)
@@ -40,7 +40,7 @@ The application makes use of [Font Awesome](https://www.npmjs.com/package/font-a
 ![App landscape](./public/mob_land_list.png)
 ![App landscape](./public/mob_land_footer.png)
 Running the application locally
-Node.js must be installed if not already. */
+Node.js must be installed if not already.
 
 Clone the application and install dependencies:
 
